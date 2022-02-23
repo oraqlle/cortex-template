@@ -1,0 +1,9 @@
+{
+    name: 'cortex-template',
+    version: '0.0.1',
+    namespace: 'cortex',
+    test_driver: 'Catch-Main',
+    depends: [
+        '',
+    ]
+}

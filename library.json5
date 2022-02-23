@@ -1,0 +1,6 @@
+{
+    name: 'cortex-library-template-directory',
+    uses: [
+        '',
+    ]
+}
